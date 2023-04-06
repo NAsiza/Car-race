@@ -1,0 +1,24 @@
+* {
+   transition: 0.3s;
+}
+
+.bg-drift {
+   position: relative;
+   margin-left: 250px;
+   width: 1000px;
+   height: 600px;
+   background-image: url(./images/race-track-with-start-and-finish-line-car-or-karting-road-racing-background-top-view_172533-883.avif);
+   background-size: contain;
+}
+
+#car1 {
+   position: absolute;
+   top: 80px;
+   right: 950px;
+}
+
+#car2 {
+   position: absolute;
+   top: 380px;
+   right: 950px;
+}
